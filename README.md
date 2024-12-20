@@ -56,3 +56,67 @@ On the backend, we utilize the Express Js framework to manage server-side logic 
 For data storage and retrieval, we rely on MongoDB. MongoDB offers a scalable and efficient solution for storing various data, ensuring quick and reliable access.
 
 In conjunction, the frontend and backend components form a comprehensive technical architecture, ensuring smooth and immersive experiences for users.
+
+# Application Flow
+
+## Freelancer Responsibilities
+
+- **Project Submission**: Submit completed and high-quality work through the platform.
+- **Compliance**: Ensure work adheres to client requirements and industry standards.
+- **Effective Communication**: Engage in communication with clients, responding promptly.
+- **Time Management**: Manage time effectively to meet deadlines.
+- **Professionalism**: Maintain a respectful and cooperative attitude.
+- **Quality Assurance**: Deliver accurate, well-executed, and error-free work.
+
+## Client Responsibilities
+
+- **Clear Project Description**: Provide detailed project descriptions with specific requirements.
+- **Timely Communication**: Respond promptly to freelancer inquiries and provide necessary feedback.
+- **Payment Obligations**: Fulfill payment terms promptly upon satisfactory project completion.
+- **Feedback and Evaluation**: Provide constructive feedback and evaluate freelancer performance.
+
+## Admin Responsibilities
+
+- **Data Oversight**: Monitor and ensure the integrity and security of all data.
+- **Policy Enforcement**: Enforce platform policies, guidelines, and ethical standards.
+- **Conflict Resolution**: Address disputes or issues promptly and impartially.
+- **User Support and Communication**: Provide support and guidance to users.
+- **Platform Maintenance and Improvement**: Maintain and improve the research platform.
+
+# Project Flow
+
+## Folder Setup
+
+Create folders for frontend and backend and install essential libraries.
+
+## Installation of Required Tools
+
+### Frontend:
+
+- **React**
+- **Bootstrap**
+- **Material UI**
+- **Axios**
+- **react-bootstrap**
+
+### Backend:
+
+- **Express Js**
+- **Node JS**
+- **MongoDB**
+- **Mongoose**
+- **Cors**
+- **Bcrypt**
+
+# Backend Development
+
+## Project Setup:
+
+1. Create a project directory and initialize it using `npm init`.
+2. Install required dependencies.
+
+## Database Configuration:
+
+1. Set up a MongoDB database.
+2. Create collections for users, projects, applications, and chat.
+
